@@ -1,6 +1,6 @@
 {
   "name": "test-gh-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Testing gh-cli",
   "main": "index.js",
   "scripts": {
