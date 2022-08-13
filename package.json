@@ -1,0 +1,25 @@
+{
+  "name": "test-gh-cli",
+  "version": "0.0.1",
+  "description": "Testing gh-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rah-emil/test-gh-cli.git"
+  },
+  "keywords": [
+    "gh",
+    "test",
+    "cli",
+    "gh-cli"
+  ],
+  "author": "Rah Emil <013131@mail.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rah-emil/test-gh-cli/issues"
+  },
+  "homepage": "https://github.com/rah-emil/test-gh-cli#readme"
+}
